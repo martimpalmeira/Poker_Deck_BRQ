@@ -1,6 +1,4 @@
-Application made with javascript to generate random deck card each time the button is pressed. In the same presentation, no image is repeated.
 <h1>Poker_Deck_BRQ</h1>
-<h2>Apresentation</h2>
 <p>Application made with javascript to generate random deck card each time the button is pressed.<br>
 In the same presentation, no image is repeated.</p>
 
