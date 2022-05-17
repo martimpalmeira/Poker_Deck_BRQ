@@ -4,18 +4,18 @@ body{
     background-image: url(../img/casinoteste.jpeg);
     background-repeat: no-repeat;
     background-size: 100%;
-    color: white;
+    background-color: rgb(0, 0, 0);
     
     
 
 }
 
-.titulodiv{
+.title_div{
     display: flex;
     justify-content: center;
 }
 
-.titulo{ 
+.title{ 
     font-size: 40px;
     align-items: center;
     font-family:Arial, Helvetica, sans-serif;
@@ -28,7 +28,7 @@ body{
 
 
 
-div.mesa{
+div.table{
     
     height: 500px;
     width: 80%;
@@ -41,17 +41,17 @@ div.mesa{
     box-shadow: 20px 5px rgb(90, 43, 9) ;
 }
 
-div.mesadiv{
+div.table_div{
     display: flex;
     justify-content: center;
     
 }
 
-.cartas{
+.cards{
     margin-top: 200px;
 }
 
-.botaodiv{
+.button_div{
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
@@ -60,10 +60,9 @@ div.mesadiv{
 .button{
     font-size: large;
     background: -webkit-linear-gradient(rgb(124, 107, 12), gold,rgb(175, 161, 29));
-    
     font-family: 'Alfa Slab One', cursive;
     padding: 15px 32px;
-    border-radius: 20px;
+    border-radius: 50px;
     box-shadow: 0 12px 16px ;
 }
 
