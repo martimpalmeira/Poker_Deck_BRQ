@@ -6,3 +6,5 @@ In the same presentation, no image is repeated.</p>
 
 <h2>Language and tools</h2>
 <p>Html, Css, JavaScript, Figma</p>
+
+Github pages: https://martimpalmeira.github.io/Poker_Deck_BRQ/
